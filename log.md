@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: august 29 2018
 
 
 **Today's Progress**:Revised HTML,CSS and Javascript basic.
@@ -9,12 +9,11 @@
 
 **Link to work:** 
 
-### Day 1: June 27, Monday
+### Day 1: august 30 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through exerscices and chalanges in teamtreehousse and get knowldge about functions.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've recently started coding, and it's a great feeling. i can know how websites work.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
