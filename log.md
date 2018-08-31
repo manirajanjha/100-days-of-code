@@ -2,7 +2,6 @@
 
 ### Day 0: august 29 2018
 
-
 **Today's Progress**:Revised HTML,CSS and Javascript basic.
 
 **Thoughts:** Today i started 100 days challlenge by revising my little knowledge about programming.
@@ -16,4 +15,8 @@
 **Thoughts** I've recently started coding, and it's a great feeling. i can know how websites work.
 
 **Link(s) to work**
+
+Day 3 : aug 31 2018
+learnt Loops and arrays.
+Thoughts: I think i have to use less facebook and other sites and give those times in coding.
 
