@@ -20,3 +20,5 @@ Day 3 : aug 31 2018
 learnt Loops and arrays.
 Thoughts: I think i have to use less facebook and other sites and give those times in coding.
 
+Day 4 : sept 1 2018
+Reveiewed Array
